@@ -1,6 +1,6 @@
-# CRATE - A Simple framework For Bottle
+# CRATE - A Simple Framework For Bottle
 
-CRATE give you a simple framework to quickly create python websites with the automated creation of an API
+CRATE gives you a simple framework to quickly create python websites with the automated creation of an API
 
 ## REQUIREMENTS
 You will need to install bottlePy using:
